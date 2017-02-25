@@ -50,3 +50,13 @@ gem 'jquery-turbolinks'
 gem 'execjs'
 
 gem 'rails_12factor', group: :production
+
+gem 'devise'
+
+gem 'rails-i18n'
+
+gem 'faker'
+
+gem 'forgery'
+
+gem 'pry-rails'
